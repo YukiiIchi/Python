@@ -9,4 +9,4 @@ https://colab.research.google.com/drive/1zvPUdfppzx_4U8dIMWuvPUFMOxY_wYC_?usp=sh
 ______________
 https://colab.research.google.com/drive/12NZWwUHpmknxbd-lewhBdWXc7pL_9Jd7?usp=sharing
 https://colab.research.google.com/drive/1RbL3NLuhQH5Kcd4fEznyMpgbaRy8fDA-?usp=sharing
-![metal-gear-rising-mgr](https://user-images.githubusercontent.com/112687355/204052572-f699526d-a961-4a78-9fee-fc09849738a5.gif)
+
